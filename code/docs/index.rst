@@ -6,7 +6,11 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
+Ayşegül Öztürk 2448777  
+
+Doruk Berke Yurtsızoğlu 2522225
+
+Group 25   
 
 
 .. toctree::
