@@ -1,5 +1,5 @@
 # COVERTOVERT
-Open source implementation of "network" covert channels.
+Open source implementation of "network" covert channels. 
 
 ## Installation
 
